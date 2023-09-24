@@ -6,8 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Mangers\" />
-    <Folder Include="Interfaces\" />
     <Folder Include="UnitOfWork\" />
   </ItemGroup>
 

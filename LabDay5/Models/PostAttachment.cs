@@ -9,7 +9,6 @@ namespace LabDay5.Models
     public class PostAttachment : BasModel
     {
         public string Name { get; set; }
-        public string Description { get; set; }
 
     }
 }
